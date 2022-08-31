@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="Result">
         <p>Email: {{ email }}</p>
         <p>Password: {{ password }}</p>
         <p>Role: {{ role }}</p>
@@ -18,3 +18,13 @@
         ],
     };
 </script>
+<style scoped>
+    .Result {
+        border: dashed black 1px;
+        text-align: center;
+        text-decoration: none;
+        width: 300px;
+        position: relative;
+        margin: auto;
+    }
+</style>

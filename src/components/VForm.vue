@@ -1,5 +1,5 @@
 <template>
-    <div >
+    <div>
         <h1>Signup Form</h1>
         <form @submit.prevent="handleSubmit">
             <label>Email:</label>
