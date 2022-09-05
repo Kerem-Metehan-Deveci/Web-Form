@@ -95,12 +95,13 @@ input[type="checkbox"] {
     cursor: pointer;
 }
 button {
-    background: #87CEEB;
+    background: #B22222;
     border: 0;
     padding: 10px 20px;
     margin-top: 20px;
     color: black;
     border-radius: 20px;
+    color: white;
 }
 .submit {
     text-align: center;

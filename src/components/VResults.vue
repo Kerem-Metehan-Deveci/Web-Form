@@ -20,7 +20,7 @@
 </script>
 <style scoped>
     .Result {
-        border: dashed black 1px;
+        border: dashed red 1px;
         text-align: center;
         text-decoration: none;
         width: 300px;
